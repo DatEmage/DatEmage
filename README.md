@@ -1,5 +1,3 @@
 ### Hello there, i'm DatEmage, I make Discord Bots and Roblox GUIS/Exploits
 # Languages
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/DatEmage/DatEmage/main/th-removebg-preview.png" />] Lua
-<br>
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/DatEmage/DatEmage/main/th%20(1).jpg" />] JavaScript
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
