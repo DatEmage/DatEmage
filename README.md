@@ -1,12 +1,15 @@
-<h1 align="center">DatEmage</h1>
-<h3 align="center">Lua and JavaScript Developer</h3>
+<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
-## Projects
-I have many projects but I'm mostly working on [Zyter](https://github.com/DatEmage/zyter)
-## I know:
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h1 align="left">YOOOOO</h1>
 
-## Contact Information
-Discord: DatEmage#6969
-## Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datemage&show_icons=true&locale=en" alt="datemage" /></p>
+<h3 align="left">
+  I'm a JavaScript and Lua developer! Also, I respond faster on Discord btw :)
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
+
+![datemage](https://github-readme-stats.vercel.app/api?username=DatEmage&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![datemage](https://github-readme-stats.vercel.app/api/top-langs?username=DatEmage&show_icons=true&theme=tokyonight&layout=compact)
